@@ -1,6 +1,7 @@
 From openjdk:8
 
 
+
 COPY ./target/employee_producer-0.0.1-SNAPSHOT.jar employee_producer-0.0.1-SNAPSHOT.jar
 
 
